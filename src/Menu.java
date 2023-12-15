@@ -5,7 +5,7 @@ import java.util.Scanner;
  * El menú permite la incialización de las opciones, y establecer un título
  * para el mismo. Dispone de métodos para visualizar las opciones disponibles,
  * y solicitar la elección de una de ellas desde el teclado.
- * @author root
+ * @author root 
  *
  */
 public class Menu {
